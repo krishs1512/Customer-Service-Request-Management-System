@@ -1,9 +1,7 @@
 //Customer Service Request Management System
 #include <iostream>
 using namespace std;
-
 #define MAX_SIZE 5
-
 class RequestQueue {
 private:
     int front, rear;
